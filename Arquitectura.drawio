@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="Página-1" id="yj0ikun25nISDpmCbhxI">
-    <mxGraphModel dx="1701" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2382" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,6 +10,11 @@
               <mxPoint x="580" y="430" />
               <mxPoint x="580" y="430" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NulUzPcUKIh3-lz1wMfL-11" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NulUzPcUKIh3-lz1wMfL-9">
+          <mxGeometry x="-0.2913" y="-3" relative="1" as="geometry">
+            <mxPoint x="23" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NulUzPcUKIh3-lz1wMfL-1" value="OmniparserServer" style="swimlane;startSize=23;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
@@ -33,6 +38,11 @@
         <mxCell id="NulUzPcUKIh3-lz1wMfL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="NulUzPcUKIh3-lz1wMfL-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1060" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NulUzPcUKIh3-lz1wMfL-12" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NulUzPcUKIh3-lz1wMfL-10">
+          <mxGeometry x="-0.1915" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NulUzPcUKIh3-lz1wMfL-3" value="Gradio" style="swimlane;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
