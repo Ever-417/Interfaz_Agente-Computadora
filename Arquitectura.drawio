@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.3">
   <diagram name="Página-1" id="yj0ikun25nISDpmCbhxI">
-    <mxGraphModel dx="2589" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,24 @@
         </mxCell>
         <mxCell id="NulUzPcUKIh3-lz1wMfL-8" value="gradio (servidor web)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="NulUzPcUKIh3-lz1wMfL-3" vertex="1">
           <mxGeometry x="25" y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sx_uomsarwfWWbpIVRFN-1" value="Gradio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx_uomsarwfWWbpIVRFN-2" value="omnibox" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx_uomsarwfWWbpIVRFN-3" value="omnibox" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx_uomsarwfWWbpIVRFN-4" value="omnibox" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="950" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx_uomsarwfWWbpIVRFN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sx_uomsarwfWWbpIVRFN-5" target="sx_uomsarwfWWbpIVRFN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sx_uomsarwfWWbpIVRFN-5" value="omniparser server" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="820" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
